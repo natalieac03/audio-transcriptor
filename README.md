@@ -16,11 +16,11 @@ Para entrevistas sensíveis, o modo mais seguro continua sendo o **local**. O mo
 ```txt
 transcritor-entrevistas/
 ├── audios/
-│   └── coloque_seus_audios_aqui.mp3
+│   └── SEUS ÁUDIOS AQUI !!!!!
 ├── transcricoes/
 ├── transcrever_entrevistas.py
 ├── requirements.txt
-├── .env.example
+├── .env
 ├── .gitignore
 └── README.md
 ```
